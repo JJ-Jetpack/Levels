@@ -1,0 +1,1 @@
+["Lift",-278,-103,"Lift",-322,-171,"Ball Spawner",269,112,"Ball Spawner",269,112,"Ball Spawner",269,112,"Ball Spawner",269,112,"Ball Spawner",269,112,"Apple",69,-65,"Apple",208,159,"Apple",-328,98,"Apple",-279,87,"Space",321,-117]
