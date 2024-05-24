@@ -1,0 +1,1 @@
+["Bombs Spawner",300,-104,"Bombs Spawner",-322,-145,"Bombs Spawner",-277,"15","Bombs Spawner",314,100,"Bombs Spawner",-61,-15,"Bombs Spawner",-306,146,"Apple",300,-104,"Apple",-322,-145,"Apple",-277,"15","Apple",314,100,"Apple",-61,-15,"Apple",-306,146,"Apple",329,174,"Apple",69,"26","Apple",321,-36,"Apple",-337,-185,"Space",280,174]
