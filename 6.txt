@@ -1,0 +1,1 @@
+["Lift","50",-177,"Ball Spawner","50",-177,"Ball Spawner","50",-177,"Ball Spawner","50",-177,"Ball Spawner","50",-177,"Lift",130,-120,"Apple","50",-177,"Apple",99,-132,"Apple",0,150]
